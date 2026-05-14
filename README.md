@@ -1,8 +1,6 @@
 # THAPPS
 
-## Thermo-Hydraulic Analyser for Premise Plumbing Systems (THAPPS)
-
-THAPPS is a thermo-hydraulic modelling framework for premise plumbing systems (PPS), focused on the simulation and analysis of:
+The Thermo-Hydraulic Analyser for Premise Plumbing Systems (THAPPS) is a Python-based modelling framework focused on the simulation and analysis of:
 
 - Hydraulic behaviour
 - Water temperature dynamics
