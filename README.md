@@ -22,4 +22,17 @@ Additional documentation, examples, and installation instructions will be added 
 
 ## Installation
 
-Instructions will be provided in a future release.
+Clone the repository:
+
+```bash
+git clone https://github.com/varkas92/THAPPS.git
+cd THAPPS
+```
+
+Install the required Python packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+THAPPS is currently under active development and the installation workflow may evolve in future releases.
