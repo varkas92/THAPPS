@@ -12,13 +12,6 @@ Current focus areas include:
 - Water age analysis
 - System performance assessment
 
----
-
-🚧 **Under active development — public release coming soon.**
-
-Additional documentation, examples, and installation instructions will be added progressively.
-
----
 
 ## Installation
 
@@ -35,4 +28,10 @@ Install the required Python packages:
 pip install -r requirements.txt
 ```
 
-THAPPS is currently under active development and the installation workflow may evolve in future releases.
+---
+
+🚧 **Under active development**
+
+Additional documentation and examples will be added progressively.
+
+---
